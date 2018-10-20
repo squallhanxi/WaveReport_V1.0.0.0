@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="gb2312"?>
+<config>
+  <main_config name="main_config">
+    <cut_up>898</cut_up>
+    <cut_down>734</cut_down>
+    <cut_left>1118</cut_left>
+    <cut_right>1012</cut_right>
+    <pcontray>1</pcontray>
+    <dev_num>A1701234</dev_num>
+    <templet>777-777</templet>
+    <right_down1>军 代 表：_____________________</right_down1>
+    <right_down2>检验人员：_____________________</right_down2>
+  </main_config>
+</config>
